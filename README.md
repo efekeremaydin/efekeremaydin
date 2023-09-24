@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efekeremaydin
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning Java SDET.
+- 🌱 I’m currently learning Java SDET and Python.
 - 💞️ I’m looking to collaborate on software testing projects.
 - 📫 How to reach me: just dm or email.
 
