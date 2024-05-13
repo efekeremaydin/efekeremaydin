@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efekeremaydin
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning Java & Spring Boot, HTML/CSS/JavaScript, Data Structures and Algorithms
+- 🌱 I’m currently learning Java & Spring Boot, HTML/CSS/JavaScript/Thymeleaf, Data Structures and Algorithms, SQL (PostgreSQL)
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me: just dm or email.
 
